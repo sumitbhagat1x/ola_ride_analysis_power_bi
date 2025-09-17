@@ -94,17 +94,17 @@ Ola_Bike_Ride/
 
 **Page-1:**
 
-![Sales Analysis Dashboard](images/Image1.jpg)
+![Sales Analysis Dashboard](Images/Image1.jpg)
 
 ---
 **Page-2:**
 
-![Sales Analysis Dashboard](images/Image2.jpg)
+![Sales Analysis Dashboard](Images/Image2.jpg)
 
 ---
 **Page-3:**
 
-![Sales Analysis Dashboard](images/Image3.jpg)
+![Sales Analysis Dashboard](Images/Image3.jpg)
 
 
 ---
