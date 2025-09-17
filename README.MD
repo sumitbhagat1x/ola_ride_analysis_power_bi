@@ -88,9 +88,9 @@ Ola_Bike_Ride/
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 - Power BI  Dashboard shows:
-  - Categories percentage distribution based on sales
-  - Top five products based on sales
-  - Footfall and Sales over various store Locations
+  - Completed Rides Vs Uncompleted Rides by Year
+  - Total Rides by RideType
+  - Completed Rides and Uncompleted Rides by RideType
 
 **Page-1:**
 
