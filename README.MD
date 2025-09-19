@@ -2,6 +2,7 @@
 #  OLA Rides - Power BI Dashboard
 
 _Data-driven analysis of OLA Rides using Power BI to uncover trends, optimize operations, and support business decisions._
+
 ---
 **Dashboard link** : https://app.powerbi.com/links/nLyeL5Stdn?ctid=45ac6391-be03-4a39-ba21-8c1b56403586&pbi_source=linkShare
 ---
